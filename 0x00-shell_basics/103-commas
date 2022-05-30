@@ -1,4 +1,2 @@
-#!/bin/bash
-
-ls -pma
+#!bin/bash
 ls -pma
